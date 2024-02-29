@@ -68,7 +68,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [JamieKaybg/azure-cli](https://github.com/JamieKaybg/azure-cli)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|105<br/>Tools used|02/09/24 <br/>Report generated|
+|105<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -385,7 +385,7 @@ Full tech stack [here](/techstack.md)
 |[cffi](https://pypi.org/project/cffi)|v1.15.0|12/03/21|Jiashuo Li |MIT|N/A|
 |[chardet](https://pypi.org/project/chardet)|v3.0.4|06/25/19|Martin Strobel |LGPL-2.1|N/A|
 |[colorama](https://pypi.org/project/colorama)|v0.4.4|11/05/21|Jiashuo Li |BSD-3-Clause|N/A|
-|[cryptography](https://pypi.org/project/cryptography)|v39.0.1|02/24/23|tspearconquest |BSD-3-Clause,Apache-2.0|[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (Moderate)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)|
+|[cryptography](https://pypi.org/project/cryptography)|v39.0.1|02/24/23|tspearconquest |BSD-3-Clause,Apache-2.0|[CVE-2024-26130](https://github.com/advisories/GHSA-6vqw-3v5j-54x4) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[CVE-2024-0727](https://github.com/advisories/GHSA-9v9h-cgj8-h64p) (Moderate)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)|
 |[distro](https://pypi.org/project/distro)|v1.6.0|02/28/23|Matt Benedix |Apache-2.0|N/A|
 |[humanfriendly](https://pypi.org/project/humanfriendly)|v10.0|11/23/21|Jiashuo Li |MIT|N/A|
 |[idna](https://pypi.org/project/idna)|v2.8|06/25/19|Martin Strobel |BSD-3-Clause|N/A|
